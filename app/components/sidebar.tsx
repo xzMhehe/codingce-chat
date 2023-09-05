@@ -121,7 +121,7 @@ export function SideBar(props: { className?: string }) {
           后端码匠
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          更多精彩关注微信公众号 "后端码匠"
+          更多精彩关注微信公众号 后端码匠
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
